@@ -1,4 +1,4 @@
-[submodule "exams"]
-	path = exams
+[submodule "learning-cxx"]
+	path = learning-cxx
 	url = https://github.com/2395959141/learning-cxx.git
 	branch = main
